@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "create new home]",
+      "details": "lorem ipsum powewiu po",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "lorem ipsum mail mdjij e",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "title": "Organize new Dogs",
+      "details": "lorem ipsum jojo sdwecw hfvhfe ",
+      "complete": true
+    },
+    {
+      "title": "bhiyghoijio",
+      "details": ".m;l[igfyf",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
